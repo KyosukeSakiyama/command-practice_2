@@ -14,5 +14,6 @@ public class Main {
         a = ((double)Math.round(a * 10))/10;
 
         System.out.println( "Your BMI is:" + a + "!" );
+        System.out.println( "Your BMI is:" + a + "!" );
     }
 }
